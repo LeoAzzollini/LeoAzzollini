@@ -6,9 +6,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
----
-About Me
-======
+
 I am currently a Postdoctoral Research Officer at the University of Oxford (2020 - ), jointly between the ERC Synergy Project "Distributional National Accounts" at the Institute for New Economic Thinking (Department of Social Policy) and the Leverhulme Centre for Demographic Science (Department of Sociology), as well as a Non-Stipendiary Research Fellow of Nuffield College.
 \
 \
@@ -31,5 +29,5 @@ Info
 leo.azzollini@spi.ox.ac.uk - University of Oxford\
 Institute for New Economic Thinking - Department of Social Policy and Intervention\
 Leverhulme Centre for Demographic Science - Department of Sociology\
-Non-Stipendiary Research Fellow - Nuffield College\
+Non-Stipendiary Research Fellow - Nuffield College
 
