@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr. Leo Azzollini"
+title                    : "Leo Azzollini (Work in Progress""
 title_separator          : "-"
 name                     : "Leo"
 description              : "Postdoctoral Research Officer, University of Oxford"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Leo Azzollini"
   avatar           : "Leo.jpeg"
-  bio              : "Social Scientist working on Social Stratification, Demography, and Democracy."
+  bio              : "Social Scientist at University of Oxford. Social Stratification, Demography, and Democracy."
   location         : "Oxford, United Kingdom"
   employer         :
   pubmed           : 
