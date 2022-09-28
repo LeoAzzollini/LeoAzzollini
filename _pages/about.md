@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Leo Azzollini"
+title: "Leo Azzollini (Website Work in Progress)"
 excerpt: "About Me"
 author_profile: true
 redirect_from: 
