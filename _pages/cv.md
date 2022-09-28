@@ -15,6 +15,8 @@ Education
 * M.Sc. in Political Economy of Europe, London School of Economics and Political Science, 2014-2015
 * B.Sc. in International Economics, Bocconi University, 2011-2014
 
+[Download my CV here](http://leoazzollini.github.io/files/paper1.pdf)
+
 
 Publications
 ======
