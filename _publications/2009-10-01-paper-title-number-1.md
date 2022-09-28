@@ -1,7 +1,7 @@
 ---
 title: "Scar Effects of Unemployment on Electoral Participation: Withdrawal and Mobilization across European Societies"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: https://doi.org/10.1093/esr/jcab016
 excerpt: 'European Social Survey, 2008-2016 data'
 date: 2021-06-28
 venue: 'European Sociological Review'
