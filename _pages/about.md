@@ -7,6 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 
+---
+
 I am currently a Postdoctoral Research Officer at the University of Oxford (2020 - ), jointly between the ERC Synergy Project "Distributional National Accounts" at the Institute for New Economic Thinking (Department of Social Policy) and the Leverhulme Centre for Demographic Science (Department of Sociology), as well as a Non-Stipendiary Research Fellow of Nuffield College.
 \
 \
