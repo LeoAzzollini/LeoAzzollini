@@ -26,7 +26,7 @@ My work has appeared in leading journals such as the _European Sociological Revi
 
 Info
 ======
-leo.azzollini@spi.ox.ac.uk - University of Oxford\
+mailto:leo.azzollini@spi.ox.ac.uk - University of Oxford\
 Institute for New Economic Thinking - Department of Social Policy and Intervention\
 Leverhulme Centre for Demographic Science - Department of Sociology\
 Non-Stipendiary Research Fellow - Nuffield College
