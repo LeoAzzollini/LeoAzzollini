@@ -10,10 +10,13 @@ redirect_from:
 ---
 About
 ---
-I am currently a Postdoctoral Research Officer at the University of Oxford (2020 - ), jointly between the ERC Synergy Project "Distributional National Accounts" at the Institute for New Economic Thinking (Department of Social Policy) and the Leverhulme Centre for Demographic Science (Department of Sociology), as well as a Non-Stipendiary Research Fellow of Nuffield College.
+I am currently a **Postdoctoral Research Officer** at the **University of Oxford** (2020 - ), jointly between the ERC Synergy Project "Distributional National Accounts" at the Institute for New Economic Thinking (**Department of Social Policy**) and the Leverhulme Centre for Demographic Science (**Department of Sociology**), as well as a Non-Stipendiary Research Fellow of **Nuffield College**.
 \
 \
-I have a Ph.D. in Public Policy from Bocconi University (2021), with a thesis on “Social Stratification, Life Course, and Political Inequality” (Chair: F.C. Billari; Committee: C. De Vries, G. Esping-Andersen, R. Macmillan). Previously, I completed a M.Sc. in Political Economy of Europe at the London School of Economics (2015) and a B.Sc. in International Economics at Bocconi University (2014).
+Within the Department of Social Policy, I also teach and supervise M.Sc./M.Phil. students of Comparative Social Policy.
+\
+\
+I have a **Ph.D. in Public Policy** from **Bocconi University** (2021), with a thesis on “_Social Stratification, Life Course, and Political Inequality_” (**Chair: F.C. Billari; Committee: C. De Vries, G. Esping-Andersen, R. Macmillan**). Previously, I completed a **M.Sc. in Political Economy of Europe** at the **London School of Economics** (2015) and a **B.Sc. in International Economics** at **Bocconi** University (2014).
 \
 \
 Research Interests and Methods
@@ -29,9 +32,6 @@ I rely on quantitative methods, with a focus on exploring the role of context an
 \
 My work has appeared in leading journals such as the _European Sociological Review_, and _Social Science Research_, featured in the European Social Survey Select Findings, and has received media attention in outlets including the BBC and RTÉ Ireland.
 
-Motivation
----
-More than two millennia ago, **Aristotle of Stagira** argued that inequality was the “_origin of all rebellions_” (Politics, V, 1301b), and that its excessive levels would create _“a state of slaves and despots, of people that envy and people that despise_” (Politics, V, 1295b). My motivation as a social scientist is to explore how inequality, in a broad sense, affects different facets of society and democracy. I do so with an interdisciplinary lens spanning Economic Sociology/Social Stratification, Social Demography, and Comparative Politics.
 
 
 Info and Contact
