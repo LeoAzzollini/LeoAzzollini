@@ -6,5 +6,5 @@ excerpt: 'How does unemployment affect generalised social trust? A growing body 
 date: 2023-01-01
 venue: 'Social Science Research'
 paperurl: 'https://doi.org/10.1016/j.ssresearch.2022.102787'
-citation: 'Azzollini, L. (2023). Scar effects of unemployment on generalised social trust: The joint impact of individual and contextual unemployment across Europe. Social Science Research, 109, 102787.&quot; <i>Journal 1</i>. 1(2).'
+citation: 'Azzollini, L. (2023). Scar effects of unemployment on generalised social trust: The joint impact of individual and contextual unemployment across Europe. Social Science Research, 109, 102787.&quot;'
 ---
