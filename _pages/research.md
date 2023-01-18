@@ -41,7 +41,7 @@ Following up on the unemployment-turnout comparative study (ESR, 2021), I explor
 \
 In sum, joining Social Stratification with a Life-Course approaches helps us further illuminate political outcomes.
 
-** The Role of Context and Methods **
+**The Role of Context and Methods**
 
 During the second year of the Ph.D., Gøsta Esping-Andersen told our cohort: "_As sociologists, always ask yourself: **under what conditions**?_*
 \
