@@ -7,7 +7,6 @@ redirect_from:
 
 ---
 Research Motivation
-======
 
 
 At the dawn of social science research, **Aristotle of Stagira** argued that **inequality** was the prime “_origin of rebellions_” (Politics 2019, V, 1301b), as its excessive levels would create “_a state of slaves and despots, of people that envy and people that despise_” (Politics, V, 1295b). 
