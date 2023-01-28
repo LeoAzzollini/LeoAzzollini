@@ -28,7 +28,10 @@ The **common pattern** emerging from this stream is that **socio-economic vulner
 
 **Social Stratification and Demography**
 
-In a second stream, with Richard Breen and Brian Nolan, we examine how **earnings inequality** is shaped by **socio-demographic patterns** in OECD countries. Relying on novel **decomposition** and **counterfactual approaches** for measures of inequality such as Half the Squared Coefficient of Variation (HSCV/GE(2)) or the Gini Coefficient, we find that the proportion of households led by single women is powerfully associated with higher inequality (**forthcoming** in the _Journal of Economic Inequality_). In a separate paper, we focus more on how **gender inequality in the labour market**: by counterfactually closing gender gaps in employment, hours, and pay in 22 OECD countries, we find out that equalising participation levels would powerfully decrease inequality across most countries, whereas equalising hours and pay is more relevant in countries were participation levels are relatively high.
+In a second stream, with Richard Breen and Brian Nolan, we examine how **earnings inequality** is shaped by **socio-demographic patterns** in OECD countries. Relying on novel **decomposition** and **counterfactual approaches** for measures of inequality such as Half the Squared Coefficient of Variation (HSCV/GE(2)) or the Gini Coefficient, we find that the proportion of households led by single women is powerfully associated with higher inequality (**forthcoming** in the _Journal of Economic Inequality_). 
+\
+\
+In a separate paper, we focus more on how **gender inequality in the labour market**: by counterfactually closing gender gaps in employment, hours, and pay in 22 OECD countries, we find out that equalising participation levels would powerfully decrease inequality across most countries, whereas equalising hours and pay is more relevant in countries were participation levels are relatively high.
 
 **Social Stratification, Demography, and Democracy**
 \
