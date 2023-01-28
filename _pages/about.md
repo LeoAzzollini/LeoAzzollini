@@ -26,7 +26,7 @@ I have a **Ph.D. in Public Policy** from **Bocconi University** (2021), with a t
 My research interests are at the intersection of **Social Stratification**, **Demography**, and **Democracy**, and more specifically on the interplay between macro-level social dynamics (e.g., unemployment, inequality), individual characteristics (e.g., unemployment experiences, age, social class), and socio-political action, including political participation, socio-political trust, and attitudes towards democracy.
 \
 \
-To pursue these research interests, I combine perspectives from Economic Sociology and the Life Course Approach to study socio-political outcomes.
+To pursue these research interests, I combine perspectives from **Economic Sociology** and the **Life Course** approach to study **socio-political** outcomes.
 \
 \
 I rely on **quantitative methods**, with a focus on exploring the role of context and mechanisms through **multilevel** models, **panel** data analysis, **fixed effects** models, and **counterfactuals** approaches.
