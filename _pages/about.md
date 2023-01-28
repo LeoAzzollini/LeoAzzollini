@@ -32,7 +32,7 @@ To pursue these research interests, I combine perspectives from Economic Sociolo
 I rely on **quantitative methods**, with a focus on exploring the role of context and mechanisms through **multilevel** models, **panel** data analysis, **fixed effects** models, and **counterfactuals** approaches.
 \
 \
-My work has appeared in leading journals such as the _European Sociological Review_, and _Social Science Research_, featured in the [European Social Survey Select Findings] (https://www.europeansocialsurvey.org/docs/findings/ESS1_9_select_findings.pdf), and has received media attention in outlets including the BBC and RTÉ Ireland.
+My work has appeared in leading journals such as the _European Sociological Review_, and _Social Science Research_, featured in the [European Social Survey Select Findings](https://www.europeansocialsurvey.org/docs/findings/ESS1_9_select_findings.pdf), and has received media attention in outlets including the BBC and RTÉ Ireland.
 
 
 
