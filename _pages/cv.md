@@ -17,3 +17,4 @@ Education
 
 [Download my CV here](http://leoazzollini.github.io/files/Azzollini Leo - Curriculum Vitae - September 2022.pdf)
 
+Please refer to my [Google Scholar](https://scholar.google.it/citations?user=L7G4WvsAAAAJ&hl=it&oi=ao) profile for the consistently updated list of publications.
