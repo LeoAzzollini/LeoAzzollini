@@ -28,7 +28,7 @@ The common pattern emerging from this stream is that socio-economic vulnerabilit
 
 **Social Stratification and Demography**
 
-In a second stream, with Richard Breen and Brian Nolan, we examine how earnings inequality is shaped by socio-demographic patterns in OECD countries. Relying on novel decomposition and counterfactual approaches for measures of inequality such as Half the Squared Coefficient of Variation (HSCV/GE(2)) or the Gini Coefficient, we find that the proportion of households led by single women is powerfully associated with higher inequality. In a separate paper, we focus more on how gender inequality in the labour market: by counterfactually closing gender gaps in employment, hours, and pay in 22 OECD countries, we find out that equalising participation levels would powerfully decrease inequality across most countries, whereas equalising hours and pay is more relevant in countries were participation levels are relatively high.
+In a second stream, with Richard Breen and Brian Nolan, we examine how earnings inequality is shaped by socio-demographic patterns in OECD countries. Relying on novel decomposition and counterfactual approaches for measures of inequality such as Half the Squared Coefficient of Variation (HSCV/GE(2)) or the Gini Coefficient, we find that the proportion of households led by single women is powerfully associated with higher inequality (**forthcoming** in the _Journal of Economic Inequality_). In a separate paper, we focus more on how gender inequality in the labour market: by counterfactually closing gender gaps in employment, hours, and pay in 22 OECD countries, we find out that equalising participation levels would powerfully decrease inequality across most countries, whereas equalising hours and pay is more relevant in countries were participation levels are relatively high.
 
 **Social Stratification, Demography, and Democracy**
 \
@@ -46,10 +46,10 @@ In sum, joining Social Stratification with a Life-Course approaches helps us fur
 During the second year of the Ph.D., Gøsta Esping-Andersen told our cohort: "_As sociologists, always ask yourself: **under what conditions**?_*
 \
 \
-Heeding this advice, my research focuses strongly on the interplay between macro-social dynamics and individual characteristics in shaping outcomes. The works on electoral participation and social trust show that contextual unemployment and individual unemployment may combine counter-intuitively in affecting socio-political outcomes, due to mechanisms such as social stigma and differential habituation. These examples highlight how a broader look at the interaction between social structure and agency.
+Heeding this advice, my research focuses strongly on the interplay between macro-social dynamics and individual characteristics in shaping outcomes. The works on electoral participation and social trust show that contextual unemployment and individual unemployment may combine counter-intuitively in affecting socio-political outcomes, due to **mechanisms** such as **social stigma** and **differential habituation**. These examples highlight how a broader look at the interaction between social structure and agency.
 \
 \
-Methodologically, I match these interests with an expertise in multilevel models, typically with cross-level interactions, and in panel data, instrumental in understanding the role of life-cycle from a quasi-causal perspective.
+**Methodologically**, I match these interests with an expertise in **multilevel** models, typically with cross-level interactions, in **panel** data, instrumental in understanding the role of life-cycle from a quasi-causal perspective, and in **counterfactual** approaches.
 
 
 
