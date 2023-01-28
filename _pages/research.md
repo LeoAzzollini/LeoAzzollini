@@ -18,13 +18,13 @@ More than two millennia later, inequality in its **many forms** is a **central**
 **Social Stratification and Democracy**
 \
 \
-In my first stream of research, I examine how different forms of social stratification affects socio-political outcomes that are important for democracy, such as voter turnout (European Sociological Review, 2021), social trust (Social Science Research, 2022), political efficacy, social participation, party choice, attitudes towards migrants, and more generally attitudes towards democracy.
+In my first stream of research, I examine how different forms of **social stratification** affects **socio-political outcomes** that are **important for democracy**, such as voter turnout (_European Sociological Review_, 2021), social trust (_Social Science Research_, 2023), social participation (_Participation and Conflict/Partecipazione e Conflitto_, 2022) political efficacy,, party choice, attitudes towards migrants, and more generally attitudes towards democracy.
 \
 \
-I contribute to this stream by highlighting how emerging forms of stratification, such as unemployment scarring and precarious work, affect such outcomes, or by studying how established forms of social stratification affect increasingly relevant political concepts (origin/destination social class and political efficacy).
+I contribute to this stream by highlighting how **emerging forms of stratification**, such as unemployment scarring and precarious work, affect such outcomes, or by studying how **established forms of social stratification** affect increasingly relevant political concepts (origin/destination social class and political efficacy).
 \
 \
-The common pattern emerging from this stream is that socio-economic vulnerability typically translates into political marginality, with contextual socio-economic dynamics either mitigating or exacerbating this relationship.
+The **common pattern** emerging from this stream is that **socio-economic vulnerability** typically translates into **political marginality**, with **contextual socio-economic dynamics** either _mitigating_ or _exacerbating_ this relationship.
 
 **Social Stratification and Demography**
 
