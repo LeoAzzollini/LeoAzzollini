@@ -49,7 +49,7 @@ In sum, joining Social Stratification with a Life-Course approaches helps us fur
 During the second year of the Ph.D., Gøsta Esping-Andersen told our cohort: "_As sociologists, always ask yourself: **under what conditions**?_*
 \
 \
-Heeding this advice, my research focuses strongly on the interplay between macro-social dynamics and individual characteristics in shaping outcomes. The works on electoral participation and social trust show that contextual unemployment and individual unemployment may combine counter-intuitively in affecting socio-political outcomes, due to **mechanisms** such as **social stigma** and **differential habituation**. These examples highlight how a broader look at the interaction between social structure and agency.
+Heeding this advice, my research focuses strongly on the **interplay** between **macro-social** dynamics and **individual** characteristics in shaping **outcomes**. The works on electoral participation, social trust, and social participation show that **contextual** unemployment **and individual unemployment** may **combine** _counter-intuitively_ in affecting socio-political outcomes, due to **mechanisms** such as **social stigma** and **differential habituation**. These examples highlight the **broader sociological relevance** of the **interaction** between **social structure** and **agency**.
 \
 \
 **Methodologically**, I match these interests with an expertise in **multilevel** models, typically with cross-level interactions, in **panel** data, instrumental in understanding the role of life-cycle from a quasi-causal perspective, and in **counterfactual** approaches.
