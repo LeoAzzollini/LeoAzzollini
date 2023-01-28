@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Public Policy, Bocconi University, 2016-2021
+* Ph.D. in Public Policy, /Cum Laude/, Bocconi University, 2016-2021
 * M.Sc. in Political Economy of Europe, London School of Economics and Political Science, 2014-2015
 * B.Sc. in International Economics, Bocconi University, 2011-2014
 
